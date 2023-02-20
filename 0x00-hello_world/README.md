@@ -1,1 +1,1 @@
-My first c project
+c file without linking
