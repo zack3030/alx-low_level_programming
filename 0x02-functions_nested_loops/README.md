@@ -1,1 +1,1 @@
-script that prints _putchar
+script that prints the alphabet, in lowercase
