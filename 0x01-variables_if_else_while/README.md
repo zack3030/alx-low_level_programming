@@ -1,1 +1,1 @@
-script to generate random numbers
+sript that assign random numbers to n
