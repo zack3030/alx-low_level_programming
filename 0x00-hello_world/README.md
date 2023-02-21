@@ -1,1 +1,1 @@
- a C program that prints exactly
+script 7
