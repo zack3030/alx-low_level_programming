@@ -1,9 +1,9 @@
+#include "main.h"
+
 /**
 *main - MAAAAAAIIIIINNN
 *Return:What do you think about pancakes?
 */
-#include "main.h"
-
 int main(void)
 {
 char mpc[] = "_putchar";
