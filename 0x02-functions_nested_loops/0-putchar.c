@@ -1,19 +1,19 @@
-#include "main.h"
+#include <unistd.h>
+#include "holberton.h"
 
 /**
-*main - MAAAAAAIIIIINNN
-*Return:What do you think about pancakes?
-*/
+ * main - Check description
+ * Description: It prints the word Holberton, followed by a new line.
+ * Return: 0.
+ */
 int main(void)
 {
-char mpc[] = "_putchar";
+	char word[9] = "Holberton";
+	int i;
 
-int i;
+	for (i = 0; i < 9; i++)
+		_putchar(word[i]);
+	_putchar('\n');
 
-for (i = 0; mpc[i]; i++)
-{
-_putchar(mpc[i]);
-}
-_putchar('\n');
-return (0);
+	return (0);
 }
