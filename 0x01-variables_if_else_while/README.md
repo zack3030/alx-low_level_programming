@@ -1,1 +1,1 @@
-sript that assign random numbers to n
+script  that prints the alphabet in lowercase
